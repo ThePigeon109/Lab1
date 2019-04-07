@@ -16,7 +16,6 @@ public class Main extends Application {
         primaryStage.show();
         System.out.println("JDK: " + System.getProperty("java.runtime.version"));
         System.out.println("JRE: " + System.getProperty("java.version"));
-    //dssefesf
     }
 
 
